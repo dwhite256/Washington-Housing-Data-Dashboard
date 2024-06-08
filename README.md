@@ -1,13 +1,10 @@
-# [Washington-Housing-Data-Dashboard]
+# Washington Housing Data Dashboard
 
 ## DESCRIPTION OF THE DATA
 The dataset used for this project was gathered from this public link https://github.com/mochen862/king-county-house-sales. The dataset contains information about the houses and housing sales prices in King County, Washington.
 
-## DATA ANALYSIS PROCESS 
-Dataset was successfully loaded into to Tableau to create smooth and informative visualizations.
-![loading-housing-data](https://github.com/dwhite256/Washington-Housing-Data-Dashboard/assets/170587320/ccb91d02-853b-4062-a62c-2fda055a03a0)
-![data-uploaded](https://github.com/dwhite256/Washington-Housing-Data-Dashboard/assets/170587320/52987832-d04e-4f33-8ac0-242698637ddf)
-
+## CONCLUSION
+An interactive dashboard was created that allows the individual interacting with it to change different variables to show different data points for the houses in King County, Washington. The user of this dashboard can adjust the range of years the house was built, the square footage of the house, and the square footage of the land lot the house is on by using a slider located on the dashboard. The user can also adjust the date interacting with the calendar on the dashboard. Changing these variables will display different data points depending on the options that were changed. Data points such as the daily average housing sales price, the distribution the housing sales prices, the distribution of the number of bedrooms and bathrooms, and the condition of the house. The user can also interact with the map to change the geographical area the houses are located in.
 
 ## DASHBOARD CREATION PROCESS
 For the dashboard to be created, each section had to be created in a different tab and then combined into dashboard in the end. The data had to be manipulated in various way using multiple Tableau features. For the histogram charts and the line chart
@@ -17,6 +14,12 @@ different columns of the data had to be arranged on the x and y axes. The map se
 https://public.tableau.com/views/HousingPortfolioProject_17043344521760/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 ![dashboard-ss](https://github.com/dwhite256/Washington-Housing-Data-Dashboard/assets/170587320/97b7a2c5-f3ba-4e0d-93b1-23245dcf6a28)
 
+## DATA ANALYSIS PROCESS 
+Dataset was successfully loaded into to Tableau to create smooth and informative visualizations.
+![loading-housing-data](https://github.com/dwhite256/Washington-Housing-Data-Dashboard/assets/170587320/ccb91d02-853b-4062-a62c-2fda055a03a0)
+![data-uploaded](https://github.com/dwhite256/Washington-Housing-Data-Dashboard/assets/170587320/52987832-d04e-4f33-8ac0-242698637ddf)
+
+
+
+
  
-## CONCLUSION
-An interactive dashboard was created that allows the individual interacting with it to change different variables to show different data points for the houses in King County, Washington. The user of this dashboard can adjust the range of years the house was built, the square footage of the house, and the square footage of the land lot the house is on by using a slider located on the dashboard. The user can also adjust the date interacting with the calendar on the dashboard. Changing these variables will display different data points depending on the options that were changed. Data points such as the daily average housing sales price, the distribution the housing sales prices, the distribution of the number of bedrooms and bathrooms, and the condition of the house. The user can also interact with the map to change the geographical area the houses are located in.
