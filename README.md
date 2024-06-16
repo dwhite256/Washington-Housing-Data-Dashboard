@@ -2,7 +2,9 @@
 <img width="604" alt="House_sale_trend_icon" src="https://github.com/dwhite256/Washington-Housing-Data-Dashboard/assets/170587320/09d89766-cf2a-4218-8b7f-9f536d573ec1">
 
 ## DESCRIPTION OF THE DATA
-The dataset used for this project was gathered from this public link https://github.com/mochen862/king-county-house-sales. The dataset contains information about houses and housing sales prices in King County, Washington.
+The dataset used for this project was gathered from this public link https://github.com/mochen862/king-county-house-sales. 
+
+The dataset contains information about houses and housing sales prices in King County, Washington.
 
 ## CONCLUSION
 An interactive dashboard was created that allows the individual interacting with it to change different variables to show different data points for the houses in King County, Washington. The user of this dashboard can adjust the range of years the house was built, the square footage of the house, and the square footage of the land lot the house is on by using a slider located on the dashboard. The user can also adjust the date interacting with the calendar on the dashboard. Changing these variables will display different data points depending on the options that were changed. Data points such as the daily average housing sales price, the distribution the housing sales prices, the distribution of the number of bedrooms and bathrooms, and the condition of the house. The user can also interact with the map to change the geographical area the houses are located in.
