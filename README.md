@@ -22,7 +22,6 @@ Dataset was successfully loaded into to Tableau to create smooth and informative
 ![data-uploaded](https://github.com/dwhite256/Washington-Housing-Data-Dashboard/assets/170587320/52987832-d04e-4f33-8ac0-242698637ddf)
 
 ## DASHBOARD
-https://public.tableau.com/views/HousingPortfolioProject_17043344521760/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 ![dashboard-ss](https://github.com/dwhite256/Washington-Housing-Data-Dashboard/assets/170587320/97b7a2c5-f3ba-4e0d-93b1-23245dcf6a28)
 
 
